@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🎉 Seongmok's GitHub 🎉
+✔ my blog : https://ajdahrdl.tistory.com/
 
 <!--
 **ksm1538/ksm1538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
