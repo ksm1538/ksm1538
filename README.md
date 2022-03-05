@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seongmok's%20GitHub&fontSize=80)
+# Hi🖐 I am Seongmok. Thanks to come my Repository
+<br/>
+
+## [📝 my Tech blog 📝](https://ajdahrdl.tistory.com)
+<br/>
 
 ## 🕹 My Tech Stacks 🕹
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-0052CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python#&logoColor=white">
@@ -23,7 +28,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
-## <a href="https://ajdahrdl.tistory.com/"> 📝 my Tech blog 📝 </a>
+
 
 
 
