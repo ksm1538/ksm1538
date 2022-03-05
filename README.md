@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=blue&height=300&section=header&text=Seongmok's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seongmok's%20GitHub&fontSize=80)
 
 ## 🕹 My Tech Stacks 🕹
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-0052CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python#&logoColor=white">
