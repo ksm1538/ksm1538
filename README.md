@@ -2,7 +2,7 @@
 # Hi🖐 I'm Seongmok. Thanks to come my Repository
 <br/>
 
-## [📝 my Tech blog 📝](https://ajdahrdl.tistory.com)
+## [📝 My Tech Blog 📝](https://ajdahrdl.tistory.com)
 <br/>
 
 ## 🕹 My Tech Stacks 🕹
