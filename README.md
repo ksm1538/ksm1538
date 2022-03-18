@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seongmok's%20GitHub&fontSize=80)
-# Hi🖐 I'm Seongmok. Thanks to come my Repository
+# Hi🖐 I'm Seongmok. Thanks to come to my Repository
 <br/>
 
 ## [📝 My Tech Blog 📝](https://ajdahrdl.tistory.com)
