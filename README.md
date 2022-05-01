@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
-
+## [📙 Daily Diary 📙](https://github.com/ksm1538/dailydiary)
 
 
 
