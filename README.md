@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Coding%20My%20Life!&fontSize=80)
-# Hi🖐 I'm Seongmok. Thanks to come to my repository
-<br/>
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Coding%20My%20Life!&fontSize=80) -->
 
 ## [📝 My Tech Blog 📝](https://ajdahrdl.tistory.com)
 <br/>
