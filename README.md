@@ -1,5 +1,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Coding%20My%20Life!&fontSize=80) -->
 
+## Algorithm Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm1538)](https://solved.ac/ksm1538/)
+<br/><br/>
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksm1538)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ## [📝 My Tech Blog 📝](https://ajdahrdl.tistory.com)
 <br/>
 
